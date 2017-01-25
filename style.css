@@ -1,0 +1,38 @@
+body {
+ margin: 0 !important;
+ font-family: 'Quicksand', sans-serif;
+ color: #2a2a2a;
+}
+.content {
+	font-size: 20px;
+	margin-left: 2.9%;
+	margin-right: 2.9%;
+	text-align: justify;
+	margin-top: 80px;
+	margin-bottom: 100px;
+}
+.title {
+	background-color: #1d1e1f;
+	padding: 4ex 4ex;
+	color: #ffffff;
+	font-size: 4ex;
+	text-align: center;
+}
+.navigation {
+	background-color: #ffffff;
+	padding: 10px 20px;
+	height: 60px;
+	position: fixed;
+	width: 100%;
+	opacity: 0,5;
+	font-size: 30px;
+}
+.option {
+	margin-right: auto;
+	margin-left: autp;
+	width: 100% ;
+}
+#png {
+ width: 100%;
+ margin-top: 80px;
+}
